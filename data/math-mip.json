@@ -1,0 +1,262 @@
+[
+  {
+    "question": "The set of points $(x,y,z)$ that satisfy\n\\[2x = 3y = -z\\]is a line.\n\nThere is another line in the space.\n\nFind the angle between these lines, in degrees.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Let $z = 2 + \\sqrt{2} - (3 + 3 \\sqrt{2})i$.  Let $w$ be the result when $z$ is rotated around $c$ by $\\frac{\\pi}{4}$ counter-clockwise.\n\n[asy]\nunitsize(0.6 cm);\n\npair C, W, Z;\n\nZ = (2 + sqrt(2), -3 - 3*sqrt(2));\nW = rotate(45,C)*(Z);\n\ndraw(Z--C--W);\n\ndot(\"$c$\", C, N);\ndot(\"$w$\", W, SE);\ndot(\"$z$\", Z, S);\nlabel(\"$\\frac{\\pi}{4}$\", C + (0.6,-1));\n[/asy]\n\nFind $w.$",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Denali and Nate work for a dog walking business and are paid for each dog they walk. Denali is responsible for $16$ dogs. Under the company's new policy, they will be assigned or unassigned new dogs in groups of $x$ dogs. The ratio of Denali's pay to Nate's pay would be the same if Denali started walking $4x$ more dogs or if $x$ of Nate's dogs were reassigned to Denali. Find $x$ if $x\\neq0$.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A worker receives an annual wage of $\\$20{,}000$, which he always deposits into a savings account at the end of the year. By the end of the third year (when he makes the third deposit), he wants to have enough money in the account to finance the purchase of a house. What is the minimal compound interest rate that the savings account must provide? Express your answer as a percentage, but do not include the percent sign.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "You have seven bags of gold coins. One day, you find a bag of 53 coins. You decide to redistribute the number of coins you have so that all eight bags you hold have the same number of coins. You successfully manage to redistribute all the coins, and you also note that you have more than 200 coins. What is the smallest number of coins you could have had before finding the bag of 53 coins?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Ten treeks weigh as much as three squigs and one goolee. The combined weight of how many treeks equals the weight of one squig?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A right cylindrical tank with circular bases is being filled with water at a rate of $20\\pi$ cubic meters per hour. What is the radius of the tank, in meters? Express your answer in simplest radical form.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A figure skater is facing north when she begins to spin. She spins 2250 degrees. Which direction (north, south, east or west) is she facing when she finishes her spin?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Let $F_1$ and $F_2$ be the foci of the ellipse $kx^2 + y^2 = 1,$ where $k > 1$ is a constant. Compute $k.$",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A strictly increasing sequence of positive integers $a_1$, $a_2$, $a_3$, $\\dots$ has the property that for every positive integer $k$, the subsequence $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ is geometric. Suppose that $a_{13} = 2016$. Find $a_1$.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Mr. Brennan has 7 boys in his statistics class. In how many ways can Mr. Brennan pick 3 boys and 2 girls to give a group presentation tomorrow? (The order in which the boys and girls are chosen does not matter.)",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "In triangle $ABC$, $AB = 17$, $AC = 8$. Let $D$ be the foot of the altitude from $C$ to $AB$.  Find the area of triangle $ACD$.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Let $F_1 = (10,2)$.$  Then the set of points $P$ such that\n\\[|PF_1 - PF_2| = 24\\]form a hyperbola.  The equation of this hyperbola can be written as\n\\[\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\\]Find $h + k + a + b.$",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Zach has a bunch of pencils to be placed into the bags. He is told to place the greatest number of pencils possible into each of the bags while also keeping the number of pencils in each bag the same. What is the greatest number of pencils he could have left over?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A Senate committee has 5 Democrats, 5 Republicans, and some Independents.  In how many ways can they sit around a circular table if all the members of each party all sit next to each other?  (Two seatings are considered equivalent if one is a rotation of the other.)",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "If Rosa's age is divided by 2, 3, 4, or 6, the remainder is 1. She is less than 75 years old. How many years old is Rosa?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A gecko is in a room that is 12 feet long and 10 feet wide. The gecko is currently on a side wall, one foot from the ceiling and one foot from the back wall. The gecko spots a fly on the opposite side wall, one foot from the floor and one foot from the front wall. What is the length of the shortest path the gecko can take to reach the fly assuming that it does not jump and can only walk across the ceiling and the walls? Express your answer in simplest radical form.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Two runners, $A$ and $B,$ start at a point $O$ on a linear track, and start running in the same direction. An observer stands at point $P$ so that $\\overline{OP}$ is perpendicular to the track.  Find the maximum of $\\angle APB,$ in degrees.\n\n[asy]\nunitsize(2 cm);\n\npair A, B, O, P;\n\nA = (0,0);\nB = (1,0);\nO = (0,0);\nP = (0,1);\n\ndraw((-0.5,0)--(2,0));\ndraw(O--P);\ndraw(P--A);\ndraw(P--B);\n\nlabel(\"$A$\", A, S);\nlabel(\"$B$\", B, S);\nlabel(\"$O$\", O, S);\nlabel(\"$P$\", P, N);\n[/asy]",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A bookcase has 3 shelves with a total of 24 books. Two books are now taken off each shelf. What fraction of the books remaining on the three shelves are math books? Express your answer as a common fraction.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "The volume of a cone is given by the formula $V = \\frac{1}{3}Bh$, where $B$ is the area of the base and $h$ is the height. The area of the base of a cone is 30 square units. What is the number of cubic units in its volume?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Louis and Jack are sharing a pie.  Louis eats $\\frac{1}{5}$ of the pie. How much of the pie do Louis and Jack eat altogether?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Two-thirds of the students at Baker Middle School take music. How many students are there at Baker Middle School?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Hillary has eleven coins, all dimes and nickels. How many nickels does she have?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Let $p(x)$ be a monic polynomial of degree 4.  Two of the roots of $p(x)$ are 1 and 3.  Find $p(0) + p(4).$",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Mikka wants to order a pizza with two different toppings. How many different pizzas could he order?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Recently, Frank took a one-hundred question aptitude test where each correct answer scored $5$ points, each incorrect answer scored $-2$ points, and each question not answered scored zero points. Frank scored $232$ points. How many questions did he answer correctly?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "There are 360 people in my school.  15 take calculus, physics, and chemistry, and 15 don't take any of them.  180 take calculus.  Twice as many students take chemistry as take physics.  75 take both calculus and chemistry, and 75 take both physics and chemistry. How many students take physics?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "In the land of Ink, the money system is unique. One Trinket is equal to 4 Blinkets. In Trinkets, what is the value of 56 Drinkets?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Sam is carrying a 2 gallon bucket of milk to his house from the barn. However, the bucket has a leak in it. For each mile he walks, there is $\\frac{2}{3}$ as much milk in the bucket as at the beginning of the mile. How many gallons of milk will be in the bucket when Sam gets home?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Yann and Camille go to a restaurant.  If there are several items on the menu, and each orders one dish, how many different combinations of meals can Yann and Camille order if they refuse to order the same dish? (It does matter who orders what---Yann ordering chicken and Camille ordering fish is different from Yann ordering fish and Camille ordering chicken.)",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Four years ago,  Chris was the same age as Amy is now. In four years, Ben's age will be $\\frac{3}{5}$ of Amy's age at that time. How many years old is Chris now?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A triangle has sides measuring 1 unit and 3 units. What is the length of the third side, in units?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Twelve friends met for dinner at Oscar's Overstuffed Oyster House, and each ordered one meal. If they share, how many meals should they have ordered to have just enough food for the 12 of them?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "I have a bag with yellow and blue marbles in it. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in the bag before I added more?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "One ticket to a show costs $\\$20$ at full price. Pam buys $5$ tickets using a coupon that gives her a $30\\%$ discount. How many more dollars does Pam pay than Susan?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "The solutions of the equation are the vertices of a convex polygon in the complex plane.  The area of this polygon can be expressed in the form $p^{a/b},$ where $a,$ $b,$ $p$ are positive integers, $p$ is prime, and $a$ and $b$ are relatively prime.  Find $a + b + p.$",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Below are five equations for $x$.  Which equation has the largest solution $x$?\n\n$\\textbf{(A)}\\ 3(1 + r)^x = 7\\qquad \\textbf{(B)}\\ 3(1 + r/10)^x = 7\\qquad \\textbf{(C)}\\ 3(1 + 2r)^x = 7$ $\\textbf{(D)}\\ 3(1 + \\sqrt {r})^x = 7\\qquad \\textbf{(E)}\\ 3(1 + 1/r)^x = 7$",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Two candidates, Dan and Donald, run for class president. Two other candidates, Freddie and Bernie, run for vice president. Each candidate has certain chance of winning. What is the probability that both Dan and Freddie win? (Express your answer as a fraction.)",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A rectangular field is enclosed in an athletic track, as shown below.  The track consists of two edges of the field, and two semicircles.  What is the largest possible area of the field, in square meters?\n\n[asy]\nunitsize(1 cm);\n\nfilldraw((0,0)--(3,0)--(3,2)--(0,2)--cycle,lightgreen);\ndraw((0,0)--(3,0),linewidth(2*bp));\ndraw((0,2)--(3,2),linewidth(2*bp));\ndraw(arc((3,1),1,-90,90),linewidth(2*bp));\ndraw(arc((0,1),1,90,270),linewidth(2*bp));\n[/asy]",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Calculate $f^{-1}(0)+f^{-1}(6)$.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "The distances from a point $P$ to four of the vertices of a regular octahedron are 3, 7, 8 and 11.  Find the distance from $P$ to the sixth vertex.\n\n[asy]\nimport three;\n\nsize(125);\ncurrentprojection = perspective(6,3,1);\n\ntriple A, B, C, D, E, F, P;\n\nA = (1,0,0);\nB = (-1,0,0);\nC = (0,1,0);\nD = (0,-1,0);\nE = (0,0,1);\nF = (0,0,-1);\nP = (1.2,1.5,1);\n\ndraw(A--P,red);\ndraw(B--P,red);\ndraw(C--P,red);\ndraw(D--P,red);\ndraw(E--P,red);\ndraw(F--P,red);\n\ndraw(A--C);\ndraw(A--D);\ndraw(A--E);\ndraw(A--F);\ndraw(C--E--D--F--cycle);\ndraw(D--B--C,dashed);\ndraw(B--C,dashed);\ndraw(B--D,dashed);\ndraw(B--E,dashed);\ndraw(B--F,dashed);\n\nlabel(\"$P$\", P, NE);\n[/asy]",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "It's a well-known physics formula that force equals mass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g, what is the ratio of acceleration of Jen's ball to Jack's?  Answer as a fraction in lowest terms.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Navin from Mauritius, Luka from Croatia, and Ian from Botswana are chatting in the lobby of a youth hostel discussing their part-time jobs. They learn that Navin makes 160 rupee per hour, Luka makes 25 kuna per hour. If one US dollar is equivalent to 32.35 Mauritius rupee, 5.18 Croatian kuna, and 6.95 Botswana pula, who would earn the most after working an eight-hour day?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "In the circle with center $Q$, radii $AQ$ and $BQ$ form a right angle. The two smaller regions are tangent semicircles, as shown. What is the radius of the smaller semicircle? Express your answer as a common fraction.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Roslyn has ten boxes. Five of the boxes contain pencils, four of the boxes contain pens. How many boxes contain neither pens nor pencils?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "The complex numbers $\\alpha_1, \\alpha_2, \\alpha_3$, and $\\alpha_4$ are the four distinct roots of a equation. Determine the unordered set \\[\n\\{\\alpha_1\\alpha_2 + \\alpha_3\\alpha_4, \\alpha_1\\alpha_3 + \\alpha_2\\alpha_4, \\alpha_1\\alpha_4 + \\alpha_2\\alpha_3\\}.\n\\]",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "A square and an equilateral triangle have\tequal\tperimeters. How long, in centimeters, is a diagonal of the square? Express your answer in simplest radical form.",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Three pencils and a jumbo eraser cost $\\$1.24$. No prices include tax. In cents, what is the cost of a pencil?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "The 7th and 8th grades have enrollments of 520 and 650 respectively. How many representatives should the 8th grade have if there is to be a fair representation of the two grades?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Each week, students show up for an archery class run by Betty and Wilma.  Usually the students break up into groups of equal size for target practice.  However, this week, Betty noticed that she could not break the students up into multiple groups of equal size.  Wilma noticed that if she and Betty both joined the students in practicing, they still could not break the archers up into groups of equal size.  How many students showed up to the archery class this week?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Linda, Sherry, June, and Connie walked around their neighborhoods selling girl scout cookies. Linda earned $\\$27.47$, Sherry earned $\\$35.23$, June earned $\\$37.37$. After the sale, they pooled their money together and went to the bank to convert the coins into dollars. How much money, in cents, was left after they converted as many of the coins into bills as they could?",
+    "reference_answers": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Jim and Martha are standing together at the corner of a rectangular field. Jim walks diagonally across the field. Martha gets to the same location by walking along its length and width. How many feet less than Martha does Jim walk?",
+    "reference_answers": null,
+    "should_abstain": true
+  }
+]
